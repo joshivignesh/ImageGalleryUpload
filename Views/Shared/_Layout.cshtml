@@ -1,0 +1,40 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h3>My Core Web</h3>
+    <a asp-action="Index" asp-controller="Home">Index</a>
+    @*<a asp-action="Create" asp-controller="Blog">Create Blog</a>*@
+    <a asp-route="addblog">Create Blog</a>
+    <hr />
+    <environment include="Development">
+
+        <link rel="stylesheet" href="~/libs/bootstrap/css/bootstrap.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    </environment>
+    @RenderBody()
+    <environment include="Development">
+
+        <script src="~/libs/jquery/jquery-3.3.1.js"></script>
+        <script src="~/libs/bootstrap/js/bootstrap.js"></script>
+
+    </environment>
+    <environment exclude="Development">
+        <script src="https://code.jquery.com/jquery-3.3.1.js"
+                integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+                crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    </environment>
+</body>
+</html>

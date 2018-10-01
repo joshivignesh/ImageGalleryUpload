@@ -1,0 +1,56 @@
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.deps.json
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.runtimeconfig.json
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.runtimeconfig.dev.json
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.dll
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csprojAssemblyReference.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csproj.CoreCompileInputs.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorAssemblyInfo.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorAssemblyInfo.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.AssemblyInfoInputs.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.AssemblyInfo.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorTargetAssemblyInfo.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.pdb
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.dll
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.pdb
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.Views.dll
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.Views.pdb
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.TagHelpers.input.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.TagHelpers.output.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorCoreGenerate.cache
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorTargetAssemblyInfo.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.Views.pdb
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csproj.CopyComplete
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+C:\Users\Hvuser\Desktop\AllProjects\DotNetCore\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\GetImage.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.deps.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.runtimeconfig.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.runtimeconfig.dev.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.dll
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.pdb
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.Views.dll
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\bin\Debug\netcoreapp2.1\MVCProject.Views.pdb
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csprojAssemblyReference.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csproj.CoreCompileInputs.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorAssemblyInfo.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorAssemblyInfo.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.AssemblyInfoInputs.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.AssemblyInfo.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.TagHelpers.input.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.TagHelpers.output.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorCoreGenerate.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\GetImage.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorTargetAssemblyInfo.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.RazorTargetAssemblyInfo.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.Views.pdb
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.dll
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.pdb
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\MVCProject\MVCProject\obj\Debug\netcoreapp2.1\MVCProject.csproj.CopyComplete
